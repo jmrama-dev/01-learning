@@ -22,19 +22,21 @@ course or a provider that hosts multiple courses:
 - **Provider folder with multiple courses** (e.g. `02-Anthropic`): each course gets its own subfolder under the
   provider, so new courses can be added as siblings without touching existing ones:
   ```
-  <provider-name>/<Course-Name>/Module-XX/
+  <provider-name>/<Course-Name>/
   ```
-  Current example: `02-Anthropic/Claude-Code-101/Module-01/`.
+  Current example: `02-Anthropic/Claude-Code-101/`. Content lives directly inside the course folder — only add
+  `Module-XX/` subfolders within it if that specific course is naturally split into numbered modules worth
+  separating; don't add them by default.
 
-Each module currently contains a `reflections.md` with three prompts to fill in after finishing the module:
+Each course/module contains a `reflections.md` with three prompts to fill in after finishing it:
 - ¿Qué aprendí? (What did I learn?)
 - ¿Qué me costó entender? (What was hard to understand?)
 - ¿Cómo podría usar esto en un proyecto mío? (How could I use this in my own project?)
 
-When adding a new course or module: if it belongs to a provider that already hosts multiple courses (like
-Anthropic), add a new `<Course-Name>/Module-01/` subfolder under that provider's folder. If it's a new
-provider/instructor with a single course, follow the flat `<course-name>/Module-XX/` pattern like Andrew Ng.
-Either way, include a `reflections.md` in each new module unless the user says otherwise.
+When adding a new course: if it belongs to a provider that already hosts multiple courses (like Anthropic), add a
+new `<Course-Name>/` subfolder under that provider's folder. If it's a new provider/instructor with a single
+course, follow the flat `<course-name>/Module-XX/` pattern like Andrew Ng. Either way, include a `reflections.md`
+unless the user says otherwise.
 
 ## Working in this repo
 
