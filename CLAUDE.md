@@ -44,12 +44,15 @@ unless the user says otherwise.
 ## Notes / learning log (`01-Notes/`)
 
 `01-Notes/` is the public, ongoing core of the repository — the learning log. Entries are dated files
-named `YYYY-MM-DD-slug.md`.
+named `YYYY-MM-DD-slug-descriptivo.md`.
 
-- A recommended structure (not mandatory) for day-to-day progress entries is: `Qué hice hoy` /
-  `Ideas clave` / `Próximos pasos`. Use it when it fits the content — but not every entry is a daily
-  recap. Conceptual explanations, reflections, or analysis of a problem should use whatever structure
-  fits that content instead of being forced into the daily-recap shape.
+- Recommended template (not mandatory — omit any section without real content, never fill one in
+  just to keep the shape): `Qué hice hoy` / `Qué aprendí` / `Ideas clave` / `Qué me costó entender`
+  (only if there's real evidence of a difficulty) / `Próximos pasos` (only if reasonably inferable). Not
+  every entry is a daily recap — conceptual explanations, reflections, or problem analyses should use
+  whatever structure fits the content instead.
+- Preserve the user's own voice and words when they already exist (e.g. from `reflections.md`,
+  `resumen.md`). Never invent reflections, difficulties, or learnings that aren't backed by real content.
 - When creating a new public learning-log entry, update two places manually (no scripts/automation):
   - `01-Notes/README.md` — the full chronological index (add date, title, link; reverse-chronological
     order, most recent first).
