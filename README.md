@@ -5,10 +5,10 @@ Claude Code, agentes de coding, APIs, MCP y más.
 
 ## Últimas notas
 
-- [2026-08-11 — Proyecto personal de journal con Claude Code](03-Notes/2026-08-11-proyecto-personal-journal.md)
-- [2026-08-10 — Gestión del contexto en Claude Code](03-Notes/2026-08-10-gestion-de-contexto.md)
+- [2026-08-11 — Proyecto personal de journal con Claude Code](01-Notes/2026-08-11-proyecto-personal-journal.md)
+- [2026-08-10 — Gestión del contexto en Claude Code](01-Notes/2026-08-10-gestion-de-contexto.md)
 
-Índice completo en [`03-Notes/README.md`](03-Notes/README.md).
+Índice completo en [`01-Notes/README.md`](01-Notes/README.md).
 
 ## Qué estoy explorando
 
@@ -23,11 +23,14 @@ Claude Code · AI Agents · Agent Skills · MCP · APIs · Software Development
 
 ## Estructura
 
-- [`03-Notes/`](03-Notes/) — **learning log**: entradas fechadas con lo que voy aprendiendo y
+`01-Notes/` es el núcleo público y continuo del repositorio; los cursos y recursos son
+categorías de apoyo alrededor de ese learning log.
+
+- [`01-Notes/`](01-Notes/) — **learning log**: entradas fechadas con lo que voy aprendiendo y
   construyendo. Empieza por aquí si quieres ver qué estoy haciendo ahora mismo.
-- [`01-Andrew-Ng-Agentic-AI/`](01-Andrew-Ng-Agentic-AI/) — apuntes y ejercicios del curso de
-  Andrew Ng sobre IA agéntica.
 - [`02-Anthropic/`](02-Anthropic/) — apuntes y ejercicios de los cursos de Anthropic (Claude
   Code, Agent Skills, etc.).
+- [`03-Andrew-Ng-Agentic-AI/`](03-Andrew-Ng-Agentic-AI/) — apuntes y ejercicios del curso de
+  Andrew Ng sobre IA agéntica.
 - [`04-Recursos-Creados/`](04-Recursos-Creados/) — materiales y documentos que voy creando
   como parte del aprendizaje.
