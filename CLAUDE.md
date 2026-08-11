@@ -5,9 +5,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Repository purpose
 
 This is a personal learning repository (notes/exercises, not a software product) where the user documents their
-progress learning AI and software development. Content is written in **Spanish**. There is currently no build,
-lint, or test tooling — the repo holds course notes and will grow to include exercises/small projects as courses
-progress.
+progress learning AI and software development. It also serves a public purpose: `03-Notes/` is a public learning
+log on GitHub documenting what the user learns and builds around AI, Claude Code, coding agents, APIs, MCP, and
+skills. Content is written in **Spanish**. There is currently no build, lint, or test tooling — the repo holds
+course notes and will grow to include exercises/small projects as courses progress.
 
 ## Structure
 
@@ -37,6 +38,19 @@ When adding a new course: if it belongs to a provider that already hosts multipl
 new `<Course-Name>/` subfolder under that provider's folder. If it's a new provider/instructor with a single
 course, follow the flat `<course-name>/Module-XX/` pattern like Andrew Ng. Either way, include a `reflections.md`
 unless the user says otherwise.
+
+## Notes / learning log (`03-Notes/`)
+
+`03-Notes/` is the public learning log. Entries are dated files named `YYYY-MM-DD-slug.md`.
+
+- A recommended structure (not mandatory) for day-to-day progress entries is: `Qué hice hoy` /
+  `Ideas clave` / `Próximos pasos`. Use it when it fits the content — but not every entry is a daily
+  recap. Conceptual explanations, reflections, or analysis of a problem should use whatever structure
+  fits that content instead of being forced into the daily-recap shape.
+- When creating a new public learning-log entry, update two places manually (no scripts/automation):
+  - `03-Notes/README.md` — the full chronological index (add date, title, link; reverse-chronological
+    order, most recent first).
+  - The "Últimas notas" section in the root `README.md` — trim to the 3-5 most recent entries.
 
 ## Working in this repo
 
