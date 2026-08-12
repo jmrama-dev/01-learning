@@ -5,9 +5,9 @@ Claude Code, agentes de coding, APIs, MCP y más.
 
 ## Últimas notas
 
+- [2026-08-12 — Certificación: Introducción a los subagentes](01-Notes/2026-08-12-certificacion-subagentes.md)
 - [2026-08-11 — Proyecto personal de journal con Claude Code](01-Notes/2026-08-11-proyecto-personal-journal.md)
 - [2026-08-10 — Gestión del contexto en Claude Code](01-Notes/2026-08-10-gestion-de-contexto.md)
-- [2026-08-06 — Repaso de fundamentos de IA y gestión del contexto](01-Notes/2026-08-06-repaso-ia-y-gestion-del-contexto.md)
 
 Índice completo en [`01-Notes/README.md`](01-Notes/README.md).
 
