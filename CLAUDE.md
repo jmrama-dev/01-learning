@@ -64,29 +64,12 @@ unless the user says otherwise.
 `01-Notes/` is the public, ongoing core of the repository — the learning log. Entries are dated files
 named `YYYY-MM-DD-slug-descriptivo.md`.
 
-### Daily-note workflow
+Two indexes must be kept in sync by hand whenever a new entry is added (no scripts/automation):
+`01-Notes/README.md` (the full chronological index) and the "Últimas notas" section of the root
+`README.md` (trimmed to the 3-5 most recent entries).
 
-The common trigger for a new entry: the user pastes a free-text summary (in Spanish) of what they did that
-day, and it gets turned into a dated note following the template below. Don't ask which folder/format to
-use each time — just create it and show the result; only pause to ask about optional side files (e.g. an
-empty `reflections.md` for a brand-new course module).
-
-- Recommended template (not mandatory — omit any section without real content, never fill one in
-  just to keep the shape): `Qué hice hoy` / `Qué aprendí` / `Ideas clave` / `Qué me costó entender`
-  (only if there's real evidence of a difficulty) / `Próximos pasos` (only if reasonably inferable). Not
-  every entry is a daily recap — conceptual explanations, reflections, or problem analyses should use
-  whatever structure fits the content instead.
-- **Tone for "Ideas clave"**: when drafting it yourself (not given explicit content), default to a short
-  reflective paragraph — pick 1-3 things that stood out, in the user's voice, not an exhaustive list that
-  restates a source file (e.g. a course's `key-concepts.md`) almost verbatim. If the user pastes their own
-  text and asks for it to go in a specific section, use it close to verbatim (light formatting only) instead
-  of condensing it — that's their call, not a violation of the "keep it short" default.
-- Preserve the user's own voice and words when they already exist (e.g. from `reflections.md`,
-  `resumen.md`). Never invent reflections, difficulties, or learnings that aren't backed by real content.
-- When creating a new public learning-log entry, update two places manually (no scripts/automation):
-  - `01-Notes/README.md` — the full chronological index (add date, title, link; reverse-chronological
-    order, most recent first).
-  - The "Últimas notas" section in the root `README.md` — trim to the 3-5 most recent entries.
+For the full daily-note creation workflow (trigger, template, tone rules, exact index-update steps),
+see the `nota-diaria` skill (`.claude/skills/nota-diaria/SKILL.md`).
 
 ## Working in this repo
 
