@@ -3,7 +3,7 @@
 ## Qué hice hoy
 
 - Completé el curso [Introduction to Subagents](https://anthropic.skilljar.com/introduction-to-subagents) de Anthropic y obtuve la certificación.
-- Guardé el resumen detallado en `02-Anthropic/04.Introduction-to-subagents/Key Concepts.md`, siguiendo el mismo formato que los cursos anteriores.
+- Guardé el resumen detallado en `02-Anthropic/04-Introduction-to-Subagents/key-concepts.md`, siguiendo el mismo formato que los cursos anteriores.
 
 ## Ideas clave de hoy
 
@@ -24,5 +24,5 @@ Diferencia fundamental: una Skill aporta conocimiento reutilizable al contexto a
 
 ## Próximos pasos
 
-- Rellenar `Reflections.md` del módulo de subagentes cuando haya podido aplicarlo en algún caso real.
+- Rellenar `reflections.md` del módulo de subagentes cuando haya podido aplicarlo en algún caso real.
 - Seguir con el siguiente curso de la ruta de Anthropic.
