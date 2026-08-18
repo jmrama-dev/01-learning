@@ -2,16 +2,18 @@
 
 ## Qué hice hoy
 
-- Amplié el repositorio con una nueva sección para guardar artículos pendientes de leer.
-- Creé una bandeja sencilla y añadí el primer enlace.
-- Actualicé las reglas del proyecto (CLAUDE.md) para que Claude distinga correctamente entre
-  artículos, ideas, tareas y notas del diario.
-- Estuve leyendo documentación de APIs.
+- Seguí trabajando en mi proyecto **Learning Loop Journal**.
+- Añadí una nueva sección para guardar artículos pendientes de leer, con una bandeja sencilla en
+  la que guardé el primer enlace.
+- Actualicé las reglas del proyecto para que Claude distinga correctamente entre artículos,
+  ideas, tareas y notas del diario.
+- Leí documentación sobre APIs para entender qué posibilidades podrían ser útiles más adelante
+  en el proyecto.
 
 ## Qué aprendí / Ideas clave
 
-La idea fue mantener esta primera versión simple —una bandeja sin más— y esperar a usarla un
-tiempo antes de añadir etiquetas, resúmenes automáticos o más automatización.
+La decisión principal fue mantener esta primera versión simple y observar cómo la uso antes de
+añadir etiquetas, resúmenes automáticos o más automatización.
 
 ## Próximos pasos
 
