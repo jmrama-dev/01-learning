@@ -2,6 +2,7 @@
 
 Índice cronológico (más reciente primero) de las entradas del learning log.
 
+- [2026-08-18 — Integración con la API de Telegram para journals](2026-08-18-integracion-telegram-journal.md)
 - [2026-08-13 — Aprender a mejorar un sistema mediante experimentos controlados](2026-08-13-experimentos-controlados-synthesis-rlab.md)
 - [2026-08-12 — Certificación: Introducción a los subagentes](2026-08-12-certificacion-subagentes.md)
 - [2026-08-11 — Proyecto personal de journal con Claude Code](2026-08-11-proyecto-personal-journal.md)
