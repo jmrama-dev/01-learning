@@ -2,6 +2,7 @@
 
 Índice cronológico (más reciente primero) de las entradas del learning log.
 
+- [2026-08-19 — Cierre del primer experimento de la Fase 5](2026-08-19-cierre-primer-experimento-fase-5.md)
 - [2026-08-18 — Integración con la API de Telegram para journals](2026-08-18-integracion-telegram-journal.md)
 - [2026-08-17 — Bandeja de artículos pendientes de leer](2026-08-17-bandeja-articulos-pendientes.md)
 - [2026-08-13 — Aprender a mejorar un sistema mediante experimentos controlados](2026-08-13-experimentos-controlados-synthesis-rlab.md)
