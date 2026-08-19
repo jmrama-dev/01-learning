@@ -8,8 +8,10 @@
 
 ## Qué aprendí / Ideas clave
 
-Cada experimento debe quedar cerrado y documentado para poder comparar resultados y continuar sin depender del contexto del chat.
+Cerrar el experimento también implica auditar los cambios y dejarlo bien documentado para poder continuar sin depender del contexto del chat.
 
 ## Próximos pasos
 
-- Revisar las conclusiones y decidir el siguiente experimento.
+- Revisar las conclusiones del Experimento 001 y qué hipótesis han quedado apoyadas o pendientes.
+- Diseñar el siguiente experimento de la Fase 5 a partir de esos resultados, sin introducir todavía complejidad adicional.
+- Mantener controladas las variables para que la nueva prueba sea comparable con la anterior.
